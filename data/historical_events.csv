@@ -8,8 +8,8 @@ Year,Country,Description,People,Category
 1688,Britain,Glorious Revolution,-,Politics
 1760-1840,Britain,First Industrial Revolution,-,Engineering
 1763-1775,Britain,Watt improved steam engines,James Watt,Engineering
-1776,America,Independence of the United States,-,Politics
 1776,Britain,"Publication of ""The Wealth of Nations""",Adam Smith,Economics
+1776,America,Independence of the United States,-,Politics
 1781-1781,Austria,Creative period of Mozart,Wolfgang Amadeus Mozart,Music
 1789,France,French Revolution,-,Politics
 1803-1815,France,Napoleonic Wars,Napoleon Bonaparte,Politics
@@ -28,6 +28,3 @@ Year,Country,Description,People,Category
 1936,Britain,Proposal of Turing Machine,Alan Mathison Turing,Computer Science
 1939-1945,-,World War II,-,Politics
 1943,France,"Publication of ""The Little Prince""",Saint-Exupery,Literature
-Year,Country,Description,People,Category
-Year,Country,Description,People,Category
-Year,Country,Description,People,Category
