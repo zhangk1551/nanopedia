@@ -16,7 +16,7 @@ def main(argv):
   index_col=False).sort_values(FLAGS.key).reset_index(drop=True)
   print(historical_events)
   if FLAGS.save:
-    historical_events.to_csv(path, index=False)
+    historical_events.to_csv(path, header=False, index=False)
 
 if __name__ == '__main__':
   app.run(main)
